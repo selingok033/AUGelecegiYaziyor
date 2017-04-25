@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/selin/Desktop/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/selin/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a0e4edfbe42fd70d85de545d97835427158ce2d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/Desktop/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b12c25e4cb7bd7824e2ff25515e079d0a0caa4a">
+        <dex dex="/home/selin/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c209d4352728c64fb159a9f7282f065318b2528/classes.dex" />
+    </item>
+
+</items>
